@@ -1,1 +1,5 @@
 https://www.juhe.cn/
+matplotlib.org
+
+要了解所有的颜色映射，访问matplotlib.org，查询color examples 单击colormaps_reference
+
