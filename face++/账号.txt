@@ -1,0 +1,10 @@
+API Key
+TEJiWsG8jdpOsM-M2lTIX0AIzoRix7Bu
+API Secret
+OFaZz6bMcyx2p3qqFEqcps131QGSStYy
+
+API调用——参数
+调用每个API需要根据需求传不同的参数，每个API参数的详细定义请查看 人脸识别 。所有 API 的调用都要使用 POST 请求，用户可以以 Query String 的形式将参数写进请求体中，传图片文件参数时则需要在请求体中使用 multipart/form-data 格式来编码。
+ 
+API调用——提示
+为了避免因网络问题而靠成的阻塞，建议将 API 调用放进异步线程里执行。

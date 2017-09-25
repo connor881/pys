@@ -1,0 +1,5 @@
+http://zetcode.com/gui/pyqt5/    pyqt5教程
+
+http://www.jianshu.com/nb/3938702   pyqt5学习笔记
+
+http://www.cnblogs.com/skynet/p/4229556.html   功能列表
