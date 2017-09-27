@@ -1,10 +1,9 @@
 import matplotlib.pyplot as plt
 
-#from random_walk import RandomWalk
+from random_walk import RandomWalk
 
 
-#rw=RandomWalk()
-#rw.fill_walk()
-#plt.scatter(rw.x_values,rw.y_values,s=15)
-plt.scatter(5,15,s=15)
+rw=RandomWalk()
+rw.fill_walk()
+plt.scatter(rw.x_values,rw.y_values,s=4)
 plt.show()
